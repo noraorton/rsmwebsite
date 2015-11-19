@@ -25,16 +25,23 @@ body {
   left: 100px;
 }*/
 
+.navbar {
+  border: none;
+  background-color: white;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
 .jumbotron {
   background-color: #FFF;
 }
 
 .jumbotron img{
-  width: 600px;
-  height: 140px;
+  width: 300px;
+  height: 75px;
   position: absolute;
-  left: 250px;
-  top: 60px;
+  left: 50px;
+  top: 100px;
 }
 .logo {
 	width: 100px;
