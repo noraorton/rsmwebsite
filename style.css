@@ -1,0 +1,95 @@
+/*
+body {
+  background-color: #F2F3F0;
+}
+*/
+/*.jumbotron {
+  background-color: blue;
+  z-index: 10;
+  position: fixed;
+  font-family: "droid serif", serif;
+  display: inline;
+  position: relative;
+  left: 200px;
+  bottom: 100px;
+  background-image: url("earthpic.jpg");
+}*/
+
+/*.jumbotron h1 {
+  color: #135FA4;
+}
+
+.jumbotron h3 {
+  color: black;
+  position: relative;
+  left: 100px;
+}*/
+
+.jumbotron {
+  background-color: #FFF;
+}
+
+.jumbotron img{
+  width: 600px;
+  height: 140px;
+  position: absolute;
+  left: 250px;
+  top: 60px;
+}
+.logo {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: 10px;
+}
+
+
+
+
+.logo img {
+	width: 160px;
+	height: 160px;
+}
+
+
+
+
+
+
+#cotton img{
+  width: 900px;
+  height: 350px;
+  position: absolute;
+  right: 150px;
+}
+.earth img {
+  width: 700px;
+  height: 700px;
+  opacity: 0.6;
+  position: absolute;
+  top: 50px;
+  right: 100px;
+  z-index: -1;
+}
+
+.mission {
+	background-color: #b3b3b3;
+  color: white;
+  display: block;
+  font-family: "Roboto", serif;
+  font-size: 10em;
+  position: relative;
+  bottom: 100px;
+}
+
+.features {
+  position: relative;
+  opacity: 0.8;
+  left: 100px;
+  bottom: 100px;
+
+}
+footer {
+  position: absolute;
+  bottom: 0;
+}
